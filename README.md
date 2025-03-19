@@ -4,7 +4,7 @@
   Hi There I'm  AYOUB HAMILEDDIN
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>  
- Salut ! Je suis AYOUB HAMILEDDIN , un étudiant passionné par le développement web full-stack.  <br>J'aime créer des applications dynamiques et optimisées en utilisant Laravel et React.js.  <br>Toujours en quête d'apprentissage, j'explore de nouvelles technologies pour améliorer mes compétences. 🚀  <br><br>📌 Compétences principales : Laravel | React.js | PHP | MySQL | JavaScript  <br>🎯 Objectif : Devenir un développeur full-stack expert et créer des projets innovants.  <br><br>N'hésite pas à explorer mes projets et à me contacter ! 😊  <br>
+ Salut ! Je suis AYOUB HAMILEDDIN, un étudiant passionné par le développement web full-stack.<br>J'aime créer des applications dynamiques et optimisées en utilisant Laravel et React.js.  <br>Toujours en quête d'apprentissage, j'explore de nouvelles technologies pour améliorer mes compétences. 🚀  <br><br>📌 Compétences principales : Laravel | React.js | PHP | MySQL | JavaScript  <br>🎯 Objectif : Devenir un développeur full-stack expert et créer des projets innovants.  <br><br>N'hésite pas à explorer mes projets et à me contacter ! 😊  <br>
 
   
 ## 🌐 Socials:
